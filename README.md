@@ -90,3 +90,4 @@ Save bot.lua
 Start the bot
 
 `lua bot.lua`
+.
