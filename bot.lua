@@ -46,7 +46,7 @@ _just send a sticker_
 *photo to sticker*
 _just send a photo_
 
-[Source](https://github.com/pAyDaAr/lua-api-bot) ;-)
+[Source](https://github.com/ThisisAmirh/hyperlink-api.git) 
 ]] 
 
 -------
@@ -205,7 +205,7 @@ function bot_run()
 
 	bot = bot.result
 
-	local bot_info = "Username = @"..bot.username.."\nName = "..bot.first_name.."\nId = "..bot.id.." \nbased on linux-file-manager :D\nthx to @imandaneshi\neditor: @unfriendly"
+	local bot_info = "Username = @"..bot.username.."\nName = "..bot.first_name.."\nId = "..bot.id.." \nbased on linux-file-manager :D\nthx to @imandaneshi\neditor: @Thisisamirh"
 
 	print(bot_info)
 
