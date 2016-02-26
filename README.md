@@ -60,7 +60,7 @@ Clone the bot
 
 ```
 git clone https://github.com/ThisisAmirh/zsrobot-api.git
-cd lua-api-bot
+cd zsrobot-api
 
 ```
 
