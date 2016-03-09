@@ -80,7 +80,7 @@ local BASE_FOLDER = "" -- do not set this
 And enter your telegram-id in admins table in [bot.lua](https://github.com/Imandaneshi/file-manager-bot/blob/master/bot.lua#L19)
 ```lua
 local var = false
-  local admins = {123456789,987654321}-- put your id here
+  local admins = {52387426,--yourid}-- put your id here
   for k,v in pairs(admins) do
 
 ```
